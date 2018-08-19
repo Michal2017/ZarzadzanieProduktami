@@ -1,0 +1,5 @@
+Otworzyć projekt
+Wpisać w Package Menager Console "Update-Database"
+Wejść w View -> SQL Server Object Explorer
+Odnaleźć nowo utworzoną bazę, poprzez Properties skopiować connection string.
+Ustawić connection string w appsettings.json

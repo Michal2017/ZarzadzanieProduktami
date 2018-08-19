@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\bin\Debug\netcoreapp2.0\ZarzadzanieProduktami.deps.json
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\bin\Debug\netcoreapp2.0\ZarzadzanieProduktami.runtimeconfig.json
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\bin\Debug\netcoreapp2.0\ZarzadzanieProduktami.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\bin\Debug\netcoreapp2.0\ZarzadzanieProduktami.dll
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\bin\Debug\netcoreapp2.0\ZarzadzanieProduktami.pdb
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\obj\Debug\netcoreapp2.0\ZarzadzanieProduktami.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\obj\Debug\netcoreapp2.0\ZarzadzanieProduktami.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\obj\Debug\netcoreapp2.0\ZarzadzanieProduktami.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\obj\Debug\netcoreapp2.0\ZarzadzanieProduktami.AssemblyInfo.cs
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\obj\Debug\netcoreapp2.0\ZarzadzanieProduktami.dll
+C:\Users\Michael\source\repos\ZarzadzanieProduktami\ZarzadzanieProduktami\obj\Debug\netcoreapp2.0\ZarzadzanieProduktami.pdb

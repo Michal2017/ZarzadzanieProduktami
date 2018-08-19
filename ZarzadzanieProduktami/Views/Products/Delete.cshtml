@@ -1,0 +1,45 @@
+﻿@model ZarzadzanieProduktami.Models.Product
+
+@{
+    ViewData["Title"] = "Usuwanie";
+}
+
+<h2>Delete</h2>
+
+<h3>Czy na pewno chcesz to usunąć?</h3>
+<div>
+    <h4>Produkt</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nazwa
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            Opis
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt>
+            Kategoria
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Category)
+        </dd>
+        <dt>
+            Cena
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Usuń" class="btn btn-default" /> |
+        <a asp-action="Index">Powrót do listy</a>
+    </form>
+</div>

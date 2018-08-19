@@ -1,0 +1,7 @@
+Aplikacja zgodnie z wymaganiami posiada możliwość wyświetlenia listy produktów, dodania nowego, edycji oraz usunięcia istniejących.
+
+Niestety wiadomość z zadaniem odkryłem w spamie dopiero 2 dni przed terminem oddania, ciężko mi więc mówić o jakichś usprawnieniach, skoro nie ma niektórych wymagań. Gdybym jednak miał więcej czasu:
+*nie wysłałbym jednego commita na gita
+*usunąłbym zbędne pliki z projektu
+*zmieniłbym kulturę języka
+*obsłużyłbym wyjątek, który się pojawia gdy wymagane pola zostawi się puste
